@@ -7,7 +7,7 @@
 | 5999251114 | Gharbi Yassine |
 
 
-**Fleury Algorithm : How to Use**  
+**How to Use (applies to both Fluery's and Hierholzer's Algorithm)**  
 The first two integers to type will be the amount of vertices and edges in your graph respectively. Afterwards, the next lines (equivalent to the amount of edges in your graph) will be the vertices connected by an edge.
 
 
