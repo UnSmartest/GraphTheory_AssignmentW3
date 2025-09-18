@@ -81,7 +81,7 @@ int main() {
     }
 
     if (!g.hasEulerianPath()) {
-        cout << "Eulerian path doesn't exist\n";
+        cout << "Euler path not found...\n";
     } else {
         auto path = g.getEulerianPath();
         for (int v : path) cout << v << " ";
